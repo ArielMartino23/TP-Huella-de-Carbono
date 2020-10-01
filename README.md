@@ -1,2 +1,2 @@
-# TP-Huella-de-Carbno
+# TP-Huella-de-Carbono
 Trabajo especial de TIO
