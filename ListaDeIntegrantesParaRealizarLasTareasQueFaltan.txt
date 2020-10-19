@@ -5,5 +5,5 @@ Ivo Coronel(Estado:Terminado) 2
 
 Ariel Emilio Martino (Estado:Terminado) 4 . . . .
 
-Juan Igancio Gomez (Estado:finalizado) 8 . .
+Juan Igancio Gomez (Estado:finalizado) 8 . . .
 
