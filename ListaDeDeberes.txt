@@ -1,9 +1,10 @@
+
 Alejandro Blanco (Estado:Terminado)
-Martina Marini (Estado:Terminado)3...
 
-Ivo Coronel(Estado:Terminado) 2
+Martina Marini (Estado:Terminado)
 
-Ariel Emilio Martino (Estado:Terminado) 4 . . . .
+Ivo Coronel(Estado:Terminado) 
 
-Juan Igancio Gomez (Estado:finalizado) 8 . . . .
+Ariel Emilio Martino (Estado:Terminado) 
 
+Juan Igancio Gomez (Estado:finalizado) 
